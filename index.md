@@ -1,5 +1,6 @@
 ## Portfolio
-
+## Data analysis from start to finish
+_With experience spanning data science and research methods, I have a broad set of skills that enable me to cover the entire analysis process.
 ---
 
 ### Category Name 1 

@@ -2,6 +2,7 @@ title: Suelen Cristina # your name (or website title) here
 logo: "/images/circle-cropped (2).png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>Python developer and Data scientist<br>
+   <br>Personal interests<br>
   <a href="https://www.linkedin.com/in/data-by-su/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal

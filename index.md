@@ -9,7 +9,7 @@ With experience spanning data science and research methods, I have a broad set o
 <img src="images/Hospital.vpd.png?raw=true"/>
 
 
-<!--
+<!-- a normal html comment
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -28,4 +28,4 @@ With experience spanning data science and research methods, I have a broad set o
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)  
 
- --!>
+ -->

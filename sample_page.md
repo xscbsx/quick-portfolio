@@ -6,7 +6,7 @@
 
  entity-relationship diagram (ERD), for a medical scenario is shown bellow: 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Hospital.vpd.png?raw=true"/>
 
 # Business scenario description
 1. Doctors diagnose any number of Conditions affecting a Patient, and a Diagnosis may apply to many Patients;

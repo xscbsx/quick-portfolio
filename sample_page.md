@@ -21,6 +21,7 @@ In this project, you can have a wise view of the hospital management.For example
 _SQL code:_
 
 ```
+CREATE DATABASE Hosp_Management
 CREATE TABLE DOCTOR(doc_id integer PRIMARY KEY, Name text, Specialization text not null);
 CREATE TABLE PATIENT(card_id integer PRIMARY KEY,Name text, Diagnosis text not null,Date_CheckIn datetime not null,Date_CheckOut);
 CREATE TABLE HOSPITAL(hosp_id text PRIMARY KEY,Location text)
@@ -41,6 +42,6 @@ if (isAwesome){
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. -->
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->

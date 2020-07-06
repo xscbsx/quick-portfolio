@@ -26,11 +26,4 @@ With experience spanning data science and research methods, I have a broad set o
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)  
 
-
----
-
-
-
-
----
  -->

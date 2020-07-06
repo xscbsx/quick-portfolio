@@ -28,6 +28,7 @@ CREATE TABLE HOSPITAL(hosp_id text PRIMARY KEY,Location text)
 CREATE TABLE COVID_TEST(test_id integer PRIMARY KEY, doc_id FOREIGN KEY, card_id FOREIGN KEY,Test_date datetime, Test_Time datetime,Result varchar(8)
 ```
 <!-- 
+
 ### 2. Assess assumptions on which statistical inference will be based
 
 ```javascript
@@ -44,4 +45,4 @@ if (isAwesome){
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).  -->

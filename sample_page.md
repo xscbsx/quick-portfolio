@@ -4,12 +4,12 @@
 **Project description:** 
 In this project, you can have a wise view of the hospital management.For example, you can track the workers who had contact with patients who were later diagnosed with COVID. With this tool, It's easy to track the people who were at a risk and also prevent the infection.
 
-## 1. Creation of the entity-relationship diagram (ERD)
+### 1. Creation of the entity-relationship diagram (ERD)
 
 
 <img src="images/Hospital.vpd.png?raw=true"/>
 
-# Business scenario description
+### Business scenario description
 1. Doctors diagnose any number of Conditions affecting a Patient, and a Diagnosis may apply to many Patients;
 
 2. The involved hospital records the following information: location, doctor and patient's information;

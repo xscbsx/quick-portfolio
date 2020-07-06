@@ -1,12 +1,12 @@
-## Portfolio
+# Portfolio
 ## Data analysis from start to finish
-_With experience spanning data science and research methods, I have a broad set of skills that enable me to cover the entire analysis process.
+With experience spanning data science and research methods, I have a broad set of skills that enable me to cover the entire analysis process.
 ---
 
-### Category Name 1 
+### Here you can check my SQL skills
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Development of a Health Business Database](/sample_page)
+<img src="images/Hospital.vpd.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

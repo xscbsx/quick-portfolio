@@ -1,5 +1,5 @@
-### My projects
-## *Hospital database management
+# My projects
+## Hospital database management
 
 **Project description:** 
 In this project, you can have a wise view of the hospital management.For example, you can track the workers who had contact with patients who were later diagnosed with COVID. With this tool, It's easy to track the people who were at a risk and also prevent the infection.

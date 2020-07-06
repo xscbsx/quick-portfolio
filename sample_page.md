@@ -1,10 +1,11 @@
-## Hospital database management
+### My projects
+## *Hospital database management
 
-**Project description:** In this project, you can have a wise view of the hospital management.For example, you can track the workers who had contact with patients who were later diagnosed with COVID. With this tool, It's easy to track the people who were at a risk and also prevent the infection.
+**Project description:** 
+In this project, you can have a wise view of the hospital management.For example, you can track the workers who had contact with patients who were later diagnosed with COVID. With this tool, It's easy to track the people who were at a risk and also prevent the infection.
 
-### 1. Creation of the entity-relationship diagram (ERD)
+## 1. Creation of the entity-relationship diagram (ERD)
 
- entity-relationship diagram (ERD), for a medical scenario is shown bellow: 
 
 <img src="images/Hospital.vpd.png?raw=true"/>
 
@@ -17,12 +18,13 @@
 
 4. A Treatment  may be performed on any number of Patients, and a Patient may have Treatments performed by any number of Physicians.
 
+_SQL code:_
 
-
-```javascript
-if (isAwesome){
-  return true
-}
+```
+CREATE TABLE DOCTOR(doc_id integer PRIMARY KEY, Name text, Specialization text not null);
+CREATE TABLE PATIENT(card_id integer PRIMARY KEY,Name text, Diagnosis text not null,Date_CheckIn datetime not null,Date_CheckOut);
+CREATE TABLE HOSPITAL(hosp_id text PRIMARY KEY,Location text)
+CREATE TABLE COVID_TEST(test_id integer PRIMARY KEY, doc_id FOREIGN KEY, card_id FOREIGN KEY,Test_date datetime, Test_Time datetime,Result varchar(8)
 ```
 
 ### 2. Assess assumptions on which statistical inference will be based
